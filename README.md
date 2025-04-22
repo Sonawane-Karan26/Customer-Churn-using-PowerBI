@@ -9,16 +9,16 @@ The analysis is delivered through an interactive Power BI report designed for bu
 Customer churn is a critical metric for subscription businesses, directly impacting revenue and long-term profitability. 
 By understanding **who is leaving, why they are leaving, and when they are most likely to leave**, businesses can design targeted retention strategies to improve customer satisfaction and reduce churn.
 
----
+## Here's a Glimpse of the Dashboard
+![Customer Churn gif is not able to render](Customer_Churn.gif)
 
 ## Approach & Process
 
 ### Data Preparation
 - Imported and transformed telecom customer data into **Power BI**.
-- Built a **connected data model** to support flexible analytical queries.
 
 ### Analysis & Calculations
-- Developed **DAX measures** and **calculated columns** to track churn metrics, segment customers, and analyze trends across key dimensions like tenure, product type, and service usage.
+- Developed **DAX measures** and **calculated columns** to track churn metrics, segment customers, and analyze trends across key dimensions like Contract category, Demographics, and Age bins.
 - Conducted exploratory data analysis to spot initial patterns and trends.
 
 ### Report Design
