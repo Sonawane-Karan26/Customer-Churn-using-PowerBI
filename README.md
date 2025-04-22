@@ -1,4 +1,4 @@
-# 📊 Trackdown-Customer-Churn-in-PowerBI
+# 📊 Customer-Churn-in-PowerBI
 For subscription-based businesses, reducing customer churn is a top priority.
 Investigating a telecom company dataset called Databel and analyze their churn rates. 
 Analyzing churn doesn’t just mean knowing what the churn rate is: it’s also about identifying the key drivers behind customer churn, 
